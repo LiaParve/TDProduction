@@ -38,7 +38,7 @@ with col1:
     4) kopeeri ükshaaval tarbijasegmentide lõikes äpi väljundteksti kõnealuse toote tutvustuslehele.")
 
 with col2:
-    st.image(image='image.png', caption='Natural and healthy shirts for everybody')
+    st.image(image='images.png', caption='Natural and healthy shirts for everybody')
 
 st.markdown("## Enter Your Content To Convert")
 
